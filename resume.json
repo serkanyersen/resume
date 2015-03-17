@@ -1,0 +1,183 @@
+
+{
+  "basics": {
+    "name": "Serkan Yersen",
+    "label": "Senior Software Engineer",
+    "picture": "http://serkan.io/images/serkan.jpg",
+    "email": "serkanyersen@gmail.com",
+    "phone": "(650) 293-1206",
+    "website": "http://serkan.io",
+    "summary": "Hi, my name is Serkan Yersen and I'm a software developer. I worked 6 years for jotform.com and built amazing things with them, now I'm building user interfaces for redbeacon.com and working on some open source projects, you can check them out on my github page.",
+    "location": {
+      "address": "1927 Bridgepointe Cir.",
+      "postalCode": "94404",
+      "city": "San Mateo",
+      "countryCode": "United States",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@serkanyersen",
+        "url": "http://twitter.com/SerkanYersen"
+      },
+      {
+        "network": "Github",
+        "username": "serkanyersen",
+        "url": "http://github.com/serkanyersen"
+      },
+      {
+        "network": "Linkedin",
+        "username": "serkanyersen",
+        "url": "https://www.linkedin.com/in/serkanyersen"
+      },
+      {
+        "network": "Codepen.io",
+        "username": "serkanyersen",
+        "url": "http://codepen.io/serkanyersen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "The Homedepot Techshed",
+      "position": "Senior Software Engineer",
+      "website": "http://techshed.co",
+      "startDate": "2012-07-01",
+      "summary": "Work as a tech lead on an undisclosed singe page front-end only web application. Generally responsible for front-end related projects.",
+      "highlights": []
+    },
+    {
+      "company": "Jotform.com",
+      "position": "Lead Developer",
+      "website": "http://jotform.com",
+      "startDate": "2006-09-01",
+      "endDate": "2012-06-30",
+      "summary": "Lead developer for JotForm version 2 and 3. Developed object oriented JavaScript frameworks. Also, worked on the Memberkit project, a content management system for membership sites. Built the user interface and implemented a flexible template engine. My latest project was Wishbox, a screenshot editor that works on the browser. I built the user interface and screenshot editor in Canvas.",
+      "highlights": []
+    },
+    {
+      "company": "Infosystem web consulting",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2006-06-01",
+      "endDate": "2006-08-30",
+      "summary": "I built and manage various websites for this company.",
+      "highlights": []
+    },
+    {
+      "company": "Misman Software",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2005-12-15",
+      "endDate": "2006-03-30",
+      "summary": "I worked on a TiVo like set top box project for this company. I've build a portal for TV guide entries and I also worked on the set top box software.",
+      "highlights": []
+    },
+    {
+      "company": "Bilkent University",
+      "position": "Assistant Instructor",
+      "website": "http://www.bilkent.edu.tr/index.html",
+      "startDate": "2005-08-01",
+      "endDate": "2005-12-01",
+      "summary": "I gave lab lectures for C, data-structures and Unix",
+      "highlights": []
+    },
+    {
+      "company": "Turkish Radio - Television Corporation",
+      "position": "Intern",
+      "website": "http://www.trt.net.tr/english",
+      "startDate": "2004-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Wrote a human resources management program for this company",
+      "highlights": []
+    },
+    {
+      "company": "Turk Traktor & New Holland",
+      "position": "Intern",
+      "website": "http://www.turktraktor.com.tr/",
+      "startDate": "1999-01-01",
+      "endDate": "2000-01-01",
+      "summary": "I worked for Research & Development department as a machine illustrator intern.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Bilkent University",
+      "area": "Computer Technologies and Programming",
+      "studyType": "Associate",
+      "startDate": "2001-09-11",
+      "endDate": "2005-06-15",
+      "gpa": "2.85 / 4",
+      "courses": []
+    },
+    {
+      "institution": "Yenimahalle Technical and Industrial Vocational High School",
+      "area": "Machine Illustration",
+      "studyType": "Vocational High School",
+      "startDate": "1997-09-10",
+      "endDate": "2000-06-10",
+      "gpa": "8 / 10",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honor Student",
+      "date": "2004-01-01",
+      "awarder": "Bilkent University",
+      "summary": "Honor student due to high GPA in that semester"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master / Expert",
+      "keywords": [
+        "Javascript",
+        "HTML / HTML5",
+        "CSS / SASS / LESS",
+        "AngularJS",
+        "BackboneJS",
+        "ReactJS",
+        "Firebase",
+        "Fabric.js",
+        "jQuery",
+        "underscore.js",
+        "Prototype.js"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert / Moderate",
+      "keywords": [
+        "Python",
+        "PHP",
+        "OO PHP",
+        "Node.js",
+        "Django",
+        "Nginx",
+        "Apache",
+        "Unix / Bash Scripting",
+        "MySQL",
+        "MongoDB",
+        "Object Oriented Prog."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Tuskish",
+      "fluency": "Main Language"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
